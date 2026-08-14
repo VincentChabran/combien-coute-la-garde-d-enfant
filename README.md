@@ -1,0 +1,38 @@
+# 138 € contre 306 € et 344 € : l'écart de reste à charge selon le mode de garde (2024)
+
+**On a compté.** Pas une estimation à la louche : un reste à charge mensuel, poste par poste selon le mode de garde, chiffré et sourcé — pour comprendre l'écart avant de choisir.
+
+## Le reste à charge mensuel en 2024, pour une famille biactive à 2 SMIC, garde à temps plein
+
+| Mode de garde | Reste à charge / mois |
+|---|---|
+| Crèche collective (EAJE) | **138 €** |
+| Assistant·e maternel·le | **306 €** |
+| Garde partagée à domicile | **344 €** |
+
+Ces trois montants sont un seul et même chiffre publié tel quel — aucune moyenne recalculée, aucune extrapolation.
+
+## Pourquoi cet écart, et pourquoi il date de 2024
+
+Ce chiffre est explicitement présenté par sa propre source comme la situation avant la réforme du complément de libre choix du mode de garde (CMG) entrée en vigueur en septembre 2025 — une réforme dont l'objectif assumé est justement de réduire cet écart entre accueil collectif et accueil individuel. Nous ne disposons pas, à la date de publication de ce dépôt, d'un chiffre équivalent post-réforme avec la même clarté méthodologique : c'est donc une photographie de 2024, pas une affirmation sur le coût actuel.
+
+## Source
+
+**Baromètre n°48 « L'accueil du jeune enfant »**, Observatoire de l'emploi à domicile (Fepem), publié en décembre 2025.
+URL : https://observatoire.fepem.fr/publication/barometre-n48-laccueil-du-jeune-enfant-vers-une-harmonisation-des-couts-pour-les-familles/ (lu à la source le 2026-08-14)
+
+Citation exacte : « Cas pour les familles biactives dont les ressources mensuelles sont inférieures à cinq Smic [...] L'écart était particulièrement marqué pour les familles modestes (revenus équivalents à deux Smic) : en 2024, le reste à charge mensuel s'élevait à 138 euros en crèche collective, contre 306 euros auprès d'un assistant maternel et 344 euros pour une garde partagée à temps plein. »
+
+**Vérification du conflit d'intérêt (2026-08-14)** : la Fepem est la fédération qui représente les particuliers employeurs — les familles qui emploient directement un·e assistant·e maternel·le ou une garde à domicile, c'est-à-dire précisément le secteur de l'« accueil individuel » que ce chiffre montre plus coûteux que la crèche collective. L'Observatoire mesure donc le coût du secteur que sa fédération de tutelle représente, au même titre que Silver Alliance (assurance obsèques) mesurant le marché des obsèques dans le dépôt `combien-coute-des-obseques`. Le sens du biais possible n'est cependant pas favorable à la Fepem si le chiffre était gonflé : un écart plus large décourage le recours à l'accueil individuel, ce qui va à l'encontre de l'intérêt commercial immédiat de ses adhérents. La lecture la plus probable est que la Fepem publie ce chiffre pour justifier la réforme du CMG qu'elle a portée politiquement (voir citation ci-dessus, qui renvoie aux recommandations du HCFEA, organisme public indépendant) — un motif de plaidoyer plutôt qu'un motif commercial direct, mais un motif tout de même. **À lire avec cette réserve** : le chiffre vient d'un organisme qui représente une partie du secteur qu'il mesure, même si rien n'indique une manipulation du chiffre lui-même (repris sans contradiction par le HCFEA, organisme public).
+
+## Pourquoi ce dépôt
+
+Ceci est la page de décomposition complète derrière une épingle Pinterest publiée par [Orvala](https://www.pinterest.com/orvaladigital/) sous l'angle éditorial « on a compté » : chaque affirmation chiffrée est sourcée et vérifiable, ici même.
+
+---
+
+*Orvala — on chiffre ce que les autres se contentent d'affirmer.*
+
+## La série « On a compté »
+
+Toute la série, avec un chiffre-titre par sujet : [github.com/VincentChabran](https://github.com/VincentChabran)
