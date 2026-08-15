@@ -16,6 +16,19 @@ Ces trois montants sont un seul et même chiffre publié tel quel — aucune moy
 
 Ce chiffre est explicitement présenté par sa propre source comme la situation avant la réforme du complément de libre choix du mode de garde (CMG) entrée en vigueur en septembre 2025 — une réforme dont l'objectif assumé est justement de réduire cet écart entre accueil collectif et accueil individuel. Nous ne disposons pas, à la date de publication de ce dépôt, d'un chiffre équivalent post-réforme avec la même clarté méthodologique : c'est donc une photographie de 2024, pas une affirmation sur le coût actuel.
 
+## Ce qui a changé depuis : la réforme du CMG (septembre 2025)
+
+Le chiffre ci-dessus date de 2024, avant la réforme du complément de libre choix du mode de garde (CMG) entrée en vigueur le 1er septembre 2025. Voici ce que la réforme change réellement, tel que documenté par la CAF elle-même — sans reconstituer un nouveau reste à charge, qu'aucune source officielle ne publie encore avec la même clarté méthodologique que le chiffre 2024 :
+
+- **Le plancher de reste à charge de 15 % du coût de la garde est supprimé.** Citation exacte de la CAF : « L'obligation d'un minimum de 15 % du coût de la garde restant à votre charge est supprimée. » C'était l'un des mécanismes qui creusait l'écart avec la crèche collective.
+- **Le calcul n'est plus plafonné.** Toujours selon la CAF : « Il n'y a plus de limite pour le montant de votre CMG : chaque heure d'accueil est prise en compte. »
+- **Le calcul dépend désormais de quatre critères** : les ressources de la famille, le nombre d'enfants à charge, le coût horaire de la garde choisie, et le nombre d'heures de garde par mois. Citation exacte : « La distinction entre les enfants de moins de 3 ans et ceux âgés de 3 à 6 ans est supprimée. »
+- **Pour les familles monoparentales**, le CMG est étendu jusqu'aux 12 ans de l'enfant (contre une limite antérieure plus basse), et depuis décembre 2025 chaque parent en résidence alternée peut le demander séparément.
+
+**Ce que ça ne dit pas** : la CAF ne publie pas, dans cette communication, de nouveau montant de reste à charge comparable au tableau ci-dessus — seulement les règles du nouveau calcul. Impossible donc d'affirmer que l'écart 138 €/306 €/344 € s'est refermé, ou dans quelle mesure. Ce qu'on peut dire, sourcé : le mécanisme qui produisait une partie de cet écart (le plancher de 15 %) n'existe plus depuis le 1er septembre 2025. Pour une estimation personnalisée à jour, le simulateur officiel de la CAF reste la seule source fiable : [caf.fr](https://www.caf.fr).
+
+**Source** : « Réforme du CMG : une aide plus adaptée pour les familles », CAF, publié le 25/09/2025, lu à la source le 2026-08-15. URL : https://www.caf.fr/allocataires/actualites/actualites-nationales/reforme-du-cmg-une-aide-plus-adaptee-pour-les-familles
+
 ## Source
 
 **Baromètre n°48 « L'accueil du jeune enfant »**, Observatoire de l'emploi à domicile (Fepem), publié en décembre 2025.
