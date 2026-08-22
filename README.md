@@ -1,5 +1,7 @@
 # 138 € contre 306 € et 344 € : l'écart de reste à charge selon le mode de garde (2024)
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-la-garde-d-enfant.pages)
+
 **On a compté.** Pas une estimation à la louche : un reste à charge mensuel, poste par poste selon le mode de garde, chiffré et sourcé — pour comprendre l'écart avant de choisir.
 
 ## Le reste à charge mensuel en 2024, pour une famille biactive à 2 SMIC, garde à temps plein
